@@ -1,8 +1,8 @@
 aba---
-title: "sunularımmmmmmmmmmxxxxxmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmerhaba"
+title: "sunularım"
 author: "m.e.bayik"
 date: '2022-09-09'
-output: html_documentoscos
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -17,7 +17,6 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 summary(cars)
-head(cars)
 ```
 
 ## Including Plots
@@ -26,7 +25,6 @@ You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
-head(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
