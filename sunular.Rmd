@@ -2,7 +2,7 @@ aba---
 title: "sunularımmmmmmmmmmxxxxxmmmmxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxmerhaba"
 author: "m.e.bayik"
 date: '2022-09-09'
-output: html_document
+output: html_documentoscos
 ---
 
 ```{r setup, include=FALSE}
